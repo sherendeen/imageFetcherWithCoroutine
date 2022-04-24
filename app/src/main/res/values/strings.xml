@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A coroutines app</string>
+    <string name="touch_to_get_a_nice_picture">Touch to get a nice picture :)</string>
+</resources>
